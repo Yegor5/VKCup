@@ -1,3 +1,3 @@
 My ML competiotions
 
-VK Cup: 4th place
+VK Cup: competiotion about fitting embeddings to identify bots. I took 4th place
